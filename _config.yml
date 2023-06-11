@@ -105,4 +105,5 @@ deploy:
   type: git
   repository:
     github: git@github.com:Niki-9/Niki-9.github.io.git
-  branch: main
+  branch: gh-pages
+
