@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhangkeqi.com/cafe%20racer/</loc>
+    
+    <lastmod>2023-07-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://zhangkeqi.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3/</loc>
     
     <lastmod>2023-07-01</lastmod>
